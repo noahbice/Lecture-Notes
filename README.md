@@ -1,6 +1,6 @@
 # Lecture-Notes
 
-Notes for lectures on Dosimetry and Python.
+Notes for my lectures on Dosimetry and Python.
 
 ## Dosimetry
 1. Scattering in classical electrodynamics
