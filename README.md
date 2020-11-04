@@ -10,3 +10,7 @@ Notes for lectures on Dosimetry and Python.
 5. Ion chamber calibration and correction factors
 
 ## Python
+1. Introduction
+2. Scripting, loops, and conditionals
+3. Functions and Classes
+4. Data visualization
